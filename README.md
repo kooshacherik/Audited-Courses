@@ -3,7 +3,7 @@ From Jan 2021 to Aug 2022
 
 
 |Computer Science Courses|School|                                   
-|:---- ||:---- |:--- |                                                    
+|:--- ||:--- |:-- |                                                    
 |1|[Intro to Computer Science]()|Harvard|                                
 |2|[Java Programming: Solving Problems with Software](https://imp.i384100.net/GjkPGV)|Duke|             
 |3|[Java Programming: Arrays, Lists, and Structured Data](https://imp.i384100.net/15knRR)|Duke|         
@@ -17,7 +17,7 @@ From Jan 2021 to Aug 2022
 
 
 |Math Courses|School| 
-|:---- ||:---- |:---- |
+|:--- ||:--- |:--- |
 |1|[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)|MIT|
 |2|[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration)|MIT|
 |3|[Introduction to Probability and Data](https://imp.i384100.net/9WZ4E0)|Duke|
@@ -29,7 +29,7 @@ From Jan 2021 to Aug 2022
 |1|[Machine Learning](https://imp.i384100.net/YgYEBJ)|Stanford|
 
 |Specialization Courses|School|
-|:---- ||:---- |:---- |
+|:--- ||:--- |:--- |
 |1|[Machine Learning for Trading Specialization:                                        Introduction to Trading, Machine Learning & GCP](https://www.coursera.org/learn/introduction-trading-machine-learning-gcp?specialization=machine-learning-trading)|Google Cloud + New York Institute Of Finance|
 |2|[Machine Learning for Trading Specialization:                                        Using Machine Learning in Trading and Finance](https://www.coursera.org/learn/machine-learning-trading-finance?specialization=machine-learning-trading)|Google Cloud + New York Institute Of Finance|
 |3|[Machine Learning for Trading Specialization:                                        Reinforcement Learning for Trading Strategies](https://www.coursera.org/learn/trading-strategies-reinforcement-learning?specialization=machine-learning-trading)|Google Cloud + New York Institute Of Finance|
