@@ -8,7 +8,7 @@ These courses has been fully completed and all their excercises and quizzes has 
 |[Java Programming: Arrays, Lists, and Structured Data](https://imp.i384100.net/15knRR)|Duke|         
 |[Object Oriented Programming in Java](https://imp.i384100.net/ZdznBq)|Duke|                          
 |[Data Structures and Performance](https://imp.i384100.net/oevm0b)|Duke|                              
-|[Java Programming: Principles of Software Design]https://imp.i384100.net/zavZrO()|Duke|            
+|[Java Programming: Principles of Software Design](https://imp.i384100.net/zavZrO)|Duke|            
 |[Java Programming: Build a Recommendation System](https://imp.i384100.net/n1vro6)|Duke|              
 |[Programming Languages, Part A](https://github.com/ForrestKnight/open-source-cs/blob/master/imp.i384100.net/6b13oK)|UW|                                
 |[Computer Science: Algorithms, Theory, and Machines](https://imp.i384100.net/7mVROr)|Princeton|
