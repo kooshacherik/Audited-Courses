@@ -25,7 +25,8 @@ From Jan 2021 to Aug 2022
 |5|[MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)|MIT|
 |6|[MIT 18.065 Matrix Methods in Data Analysis, Signal Processing](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)|MIT|
 
-|           |Machine learning course                           |School| 
+|           |Machine learning course                           |School  | 
+|:---       |:---                                              |:--     |
 |1          |[Machine Learning](https://imp.i384100.net/YgYEBJ)|Stanford|
 
 |           |Specialization Courses   |School|
