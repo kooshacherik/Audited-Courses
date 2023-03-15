@@ -4,7 +4,7 @@ From Jan 2021 to Aug 2022
 
 |           |Computer Science Courses|School|                                   
 |:---       |:---                     |:--  |                                                    
-|1|[Intro to Computer Science]()|Harvard|                                
+|1|[Intro to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)|Harvard|                                
 |2|[Java Programming: Solving Problems with Software](https://imp.i384100.net/GjkPGV)|Duke|             
 |3|[Java Programming: Arrays, Lists, and Structured Data](https://imp.i384100.net/15knRR)|Duke|         
 |4|[Object Oriented Programming in Java](https://imp.i384100.net/ZdznBq)|Duke|                          
@@ -25,8 +25,8 @@ From Jan 2021 to Aug 2022
 |5|[MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)|MIT|
 |6|[MIT 18.065 Matrix Methods in Data Analysis, Signal Processing](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)|MIT|
 
-
-|1|[Machine Learning](https://imp.i384100.net/YgYEBJ)|Stanford|
+|           |Machine learning course                           |School| 
+|1          |[Machine Learning](https://imp.i384100.net/YgYEBJ)|Stanford|
 
 |           |Specialization Courses   |School|
 |:---       |:---                     |:--   |  
