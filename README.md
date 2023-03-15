@@ -29,6 +29,6 @@ From Jan 2021 to Aug 2022
 
 |Specialization Courses|School|
 |---- |---- |
-|[Machine Learning for Trading Specialization:                                        Introduction to Trading, Machine Learning & GCP](https://www.coursera.org/learn/introduction-trading-machine-learning-gcp?specialization=machine-learning-trading)|GOOGLE CLOUD + NEW YORK INSTITUTE OF FINANCE|
-|[Machine Learning for Trading Specialization:                                        Using Machine Learning in Trading and Finance](https://www.coursera.org/learn/machine-learning-trading-finance?specialization=machine-learning-trading)|GOOGLE CLOUD + NEW YORK INSTITUTE OF FINANCE|
-|[Machine Learning for Trading Specialization:                                        Reinforcement Learning for Trading Strategies](https://www.coursera.org/learn/trading-strategies-reinforcement-learning?specialization=machine-learning-trading)|GOOGLE CLOUD + NEW YORK INSTITUTE OF FINANCE|
+|[Machine Learning for Trading Specialization:                                        Introduction to Trading, Machine Learning & GCP](https://www.coursera.org/learn/introduction-trading-machine-learning-gcp?specialization=machine-learning-trading)|Google Cloud + New York Institude Of Finance|
+|[Machine Learning for Trading Specialization:                                        Using Machine Learning in Trading and Finance](https://www.coursera.org/learn/machine-learning-trading-finance?specialization=machine-learning-trading)|Google Cloud + New York Institude Of Finance|
+|[Machine Learning for Trading Specialization:                                        Reinforcement Learning for Trading Strategies](https://www.coursera.org/learn/trading-strategies-reinforcement-learning?specialization=machine-learning-trading)|Google Cloud + New York Institude Of Finance|
