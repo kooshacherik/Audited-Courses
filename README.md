@@ -1,8 +1,9 @@
 These courses has been fully completed and all their excercises and quizzes has been participted .
+From Jan 2021 to Aug 2022
 
 
 |Computer Science Courses|School|                                   
-|-------|------|                                                    
+|---- |--- |                                                    
 |[Intro to Computer Science]()|Harvard|                                
 |[Java Programming: Solving Problems with Software](https://imp.i384100.net/GjkPGV)|Duke|             
 |[Java Programming: Arrays, Lists, and Structured Data](https://imp.i384100.net/15knRR)|Duke|         
@@ -16,7 +17,7 @@ These courses has been fully completed and all their excercises and quizzes has 
 |[Machine Learning](https://imp.i384100.net/YgYEBJ)|Stanford|
 
 |Math Courses|School| 
-|-------|------|
+|---- |---- |
 |[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation)|MIT|
 |[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration)|MIT|
 |[Introduction to Probability and Data](https://imp.i384100.net/9WZ4E0)|Duke|
@@ -27,7 +28,7 @@ These courses has been fully completed and all their excercises and quizzes has 
 
 
 |Specialization Courses|School|
-|-------|------|
+|---- |---- |
 |[Machine Learning for Trading Specialization:                                        Introduction to Trading, Machine Learning & GCP](https://www.coursera.org/learn/introduction-trading-machine-learning-gcp?specialization=machine-learning-trading)|GOOGLE CLOUD + NEW YORK INSTITUTE OF FINANCE|
 |[Machine Learning for Trading Specialization:                                        Using Machine Learning in Trading and Finance](https://www.coursera.org/learn/machine-learning-trading-finance?specialization=machine-learning-trading)|GOOGLE CLOUD + NEW YORK INSTITUTE OF FINANCE|
 |[Machine Learning for Trading Specialization:                                        Reinforcement Learning for Trading Strategies](https://www.coursera.org/learn/trading-strategies-reinforcement-learning?specialization=machine-learning-trading)|GOOGLE CLOUD + NEW YORK INSTITUTE OF FINANCE|
