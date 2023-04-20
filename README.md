@@ -1,4 +1,4 @@
-These courses have been fully completed and all their excercises and quizzes have been participted .
+These courses have been fully completed and all their excercises and quizzes have been participted.
 From Jan 2021 to Aug 2022
 
 
